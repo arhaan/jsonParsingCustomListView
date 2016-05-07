@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Json Parsing With Custom Listview</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
